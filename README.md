@@ -2,6 +2,8 @@
 
 A desktop tool for visually marking up sprite sheet animations and generating ready-to-use C++ animation data structures. Built with **C++20** and **SFML 3**.
 
+<img width="2560" height="1356" alt="image" src="https://github.com/user-attachments/assets/6c09d2f2-aa4d-4581-8116-fa967265c59a" />
+
 ---
 
 ## What It Does
